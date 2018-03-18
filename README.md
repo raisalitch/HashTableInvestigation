@@ -3,11 +3,11 @@ Received 24/20 marks. (Full marks + 4 bonus marks)
 
 An exploration of cuckoo and extendable hash tables.
 
-## Files created by Raisa:
-### Documentation:
-- [report.pdf](https://github.com/raisalitch/HashTableInvestigation/blob/master/report.pdf)
+## Documentation:
 - [specification.pdf](https://github.com/raisalitch/HashTableInvestigation/blob/master/specification.pdf) (written by the University)
+- [report.pdf](https://github.com/raisalitch/HashTableInvestigation/blob/master/report.pdf) (written by Raisa)
 
+## Files written by Raisa:
 ### C files:
 #### Cuckoo Hash Table: [tables/cuckoo.c](https://github.com/raisalitch/HashTableInvestigation/blob/master/tables/cuckoo.c)
 - Dynamic hash table using cuckoo hashing, resolving collisions by switching keys between two tables with two separate hash functions
