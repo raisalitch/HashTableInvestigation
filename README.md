@@ -1,5 +1,6 @@
 # Hash Table Investigation (Design of Algorithms Assignment 2)
 Received 24/20 marks. (Full marks + 4 bonus marks)
+An exploration of cuckoo and extendable hash tables.
 
 ## Files created by Raisa:
 ### Documentation:
